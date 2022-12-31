@@ -1,0 +1,103 @@
+﻿
+.footerlinks
+{
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover 
+{
+    color: #ffd800;
+}
+
+#footer1 {
+    background: #bc4639;
+}
+
+#footer2 {
+    background: #bc4639;
+}
+
+#head1 {
+
+    background: #bc4639;
+}
+.geodir-home .geodir_more_info .fa {
+    margin: 0 5px 0 0;
+}
+
+#head2 {
+    background: #bc4639;
+}
+#member1
+{
+    text-align: justify;
+}
+
+#member3 {
+    font-size: 10;
+    text-align: justify;
+}
+
+.sidebarMenu {
+    background-color: #d4a59a;
+}
+
+#HomeHeading {
+    margin-left: 50px;
+    color: #065e71;
+    font-family: 'Lucida Fax';
+}
+
+#text {
+    margin-left: 90px;
+    margin-right: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #2e438e;
+    font-size: 20px;
+}
+
+.card {
+    background-color: #d4a59a ;
+}
+
+body {
+    
+    background-color: #f3e0dc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.nav {
+    background-color: #f3e0dc;
+}
+
+/*.fa-solid {
+    background-color: #bc4639;
+}
+*/
+
+/*.fa-cog {
+    background-color:  #bc4639;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
